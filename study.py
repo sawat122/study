@@ -1,4 +1,4 @@
-# study
+
 """Hesap Makinesi örneği if, elif, else kullanarak."""
 
 print("******************************\nHesap Makinesi Programı\n1)Toplama(+)\n2)Çıkarma(-)\n3)Çarpma(x)\n4)Bölme(/)\n******************************")
